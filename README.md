@@ -22,7 +22,7 @@ My journey in computer science has led me to develop a strong passion for cybers
 | Red Teaming & Adversary Simulation | C2 Framework Evaluation (Cyber Defense Intelligence Internship) |
 | Vulnerability Assessment & Penetration Testing (VAPT) | Web / Network / Android VAPT — 40+ vulnerabilities submitted |
 | Digital Forensics & Malware Runtime Analysis | Law Enforcement Cybercrime Investigation Support |
-| Bash Scripting & Automation | Internal tooling for red team sandbox environments |
+| Bash Scripting & Automation | <a href="scripts/Storage-Monitor.sh">Recon Automation Script</a> |
 
 ## Tools
 
