@@ -1,4 +1,4 @@
-# Hello, I'm Rutanshu Rana 👋
+# Hello, I'm Rutanshu 👋
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:arkx279@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
